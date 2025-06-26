@@ -50,7 +50,11 @@ Confusion Matrix
 These metrics provide a clear picture of the model's performance on benign and malignant tumor classification.
 
 # Results
+
 The decision tree was able to achieve high accuracy on the test set, demonstrating its ability to generalize well on new data. The visualization provides transparency into how the model makes predictions, which is crucial in sensitive applications like medical diagnosis.
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/85f07a34-d9bf-4d0b-b6b4-cb9e056297fd)
+
+![Image](https://github.com/user-attachments/assets/b5c0bc9f-53d7-43b2-82d2-0c9c736a2236)
