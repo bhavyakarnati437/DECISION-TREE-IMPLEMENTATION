@@ -10,7 +10,7 @@ DOMAIN : Machine Learning
 DURATION : 8 WEEKS
 
 MENTOR : NEELA SANTOSH
-#DESCRIPTION:
+# DESCRIPTION:
 This project presents a supervised machine learning approach to classify breast cancer tumors as malignant or benign using a Decision Tree Classifier. The model is implemented in Python using the Scikit-learn library and trained on the built-in Breast Cancer Wisconsin Diagnostic Dataset, a well-known benchmark dataset in the medical and machine learning community.
 
 A decision tree is a flowchart-like structure in which each internal node represents a test on a feature, each branch represents an outcome of the test, and each leaf node represents a class label. This type of model is highly interpretable and easy to visualize, making it ideal for healthcare-related problems where transparency is important.
